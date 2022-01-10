@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31410.357
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LabRab_1", "LabRab_1.csproj", "{04389CC8-8D11-42AF-B9A5-5C09CA4ACE02}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LabRab_2", "..\..\2\LabRab_2\LabRab_2.csproj", "{54D9A7D4-9DE2-4D71-B254-F74B84D65CB3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LabRab_3", "..\..\3\LabRab_3\LabRab_3.csproj", "{19A2ED6A-C702-4C6E-BEF3-BC83B6D7881F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{04389CC8-8D11-42AF-B9A5-5C09CA4ACE02}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{04389CC8-8D11-42AF-B9A5-5C09CA4ACE02}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{04389CC8-8D11-42AF-B9A5-5C09CA4ACE02}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{04389CC8-8D11-42AF-B9A5-5C09CA4ACE02}.Release|Any CPU.Build.0 = Release|Any CPU
+		{54D9A7D4-9DE2-4D71-B254-F74B84D65CB3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{54D9A7D4-9DE2-4D71-B254-F74B84D65CB3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{54D9A7D4-9DE2-4D71-B254-F74B84D65CB3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{54D9A7D4-9DE2-4D71-B254-F74B84D65CB3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{19A2ED6A-C702-4C6E-BEF3-BC83B6D7881F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{19A2ED6A-C702-4C6E-BEF3-BC83B6D7881F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{19A2ED6A-C702-4C6E-BEF3-BC83B6D7881F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{19A2ED6A-C702-4C6E-BEF3-BC83B6D7881F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F476304D-631B-4AB8-8890-CBA92A53736E}
+	EndGlobalSection
+EndGlobal
